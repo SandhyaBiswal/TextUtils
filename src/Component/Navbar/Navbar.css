@@ -1,0 +1,30 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+nav{
+    background-color:  rgb(223, 76, 179);
+    height: 100px;
+    width: 100%;
+    display: flex;
+
+}
+a{
+    position: relative;
+    top: 15px;
+    left:750px;
+    padding: 10px;
+    color: aliceblue;
+    font-size: 130%;
+    font-weight: 600;
+    text-decoration: none;
+}
+a:hover{
+    color: blue;
+    text-shadow: 2px 2px ghostwhite;
+}
+h1{
+    color: aliceblue;
+    font-size: 150%;
+    font-weight: 600;
+}
